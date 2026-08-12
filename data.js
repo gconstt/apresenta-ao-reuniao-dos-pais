@@ -50,5 +50,16 @@ const ESTUDANTES = [
     especialidades: ["Habilidade 1", "Habilidade 2", "Habilidade 3"],
     curiosidade: "Conte aqui uma curiosidade descontraída sobre essa pessoa.",
     contato: "email@exemplo.com"
+  },
+  {
+     id: 4,
+    nome: "Nome do(a) Estudante 4",
+    curso: "Curso / Turma / Papel no projeto",
+    iniciais: "E2",
+    cor: "#5eff00ff",
+    bio: "Escreva aqui um parágrafo curto contando quem é essa pessoa, o que estuda e o que ela traz para o projeto.",
+    especialidades: ["Habilidade 1", "Habilidade 2", "Habilidade 3"],
+    curiosidade: "Conte aqui uma curiosidade descontraída sobre essa pessoa.",
+    contato: "email@exemplo.com"
   }
 ];
