@@ -25,9 +25,9 @@ const ESTUDANTES = [
     iniciais: "GC",
     cor: "#058316ff",
     bio: "Meu nome é Gustavo, estou cursando no senai para aprender a programar e trabalhar com isso no futuro, tambem pretendo cursar o superior depois do senai",
-    especialidades: ["Aprendo Rapido", "Sou bom com HTML e CSS", "Sou bom em fazer designs"],
+    especialidades: ["HTML", "CSS", "Designs"],
     curiosidade: "Gosto de ficar em casa, jogar jogos e assistir series",
-    contato: "gustavoconstantino848@gmail.com"
+    contato: "https://github.com/gconstt"
   },
   {
     id: 2,
@@ -38,7 +38,7 @@ const ESTUDANTES = [
     bio: "Meu nome é Felipe, faço curso de programação e pretendo me formar em TI",
     especialidades: ["Interesse na área", "Javascript intermediario", "Aprendendo HTML e CSS"],
     curiosidade: "Gosto de ouvir musica e aprender outros idiomas",
-    contato: "felipedoprado1@gmail.com"
+    contato: "https://github.com/Felipe-Oli-prado"
   },
   {
     id: 3,
@@ -49,17 +49,17 @@ const ESTUDANTES = [
     bio: "Meu nome é Miguel, faço curso no senai para poder entrar no mercado de trabalho",
     especialidades: ["Python", "CSS", "Eletronica"],
     curiosidade: "Já fiz curso de jogos usando python",
-    contato: "miguelito23rosa@gmail.com"
+    contato: "https://github.com/migueltaquatia-png"
   },
   {
      id: 4,
     nome: "Brendon Barbosa",
     curso: "TI - 1 Fase",
     iniciais: "BB",
-    cor: "#2f00ffff",
+    cor: "#920c0cff",
     bio: "Meu nome é Brendon, quero aprender a programar para entrar no mercado de trabalho",
     especialidades: ["CSS", "Javascript", "Bom com design"],
     curiosidade: "Gosto de ler e aprender",
-    contato: "Brendonbarbosaaa@gmail.com"
+    contato: "https://github.com/BrendonMarca"
   }
 ];
